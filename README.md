@@ -62,11 +62,3 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-
-@misc{ligan2025,
-  title={LiGAN: Lensless Image GAN for Secure Steganography},
-  author={Pramil Paudel},
-  year={2025},
-  note={https://github.com/your-username/LiGAN}
-}
